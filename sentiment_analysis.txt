@@ -1,0 +1,15 @@
+Satz 1:
+"Das war der beste Tag meines Lebens!"
+Stimmung: Positiv
+
+Satz 2:
+"Es war ein ganz normaler Tag, nichts Besonderes."
+Stimmung: Neutral
+
+Satz 3:
+"Ich bin wirklich enttäuscht von den Ergebnissen."
+Stimmung: Negativ
+
+Satz 4:
+"Das Wetter heute war angenehm."
+Stimmung: [Das Modell soll die Stimmung klassifizieren.]
